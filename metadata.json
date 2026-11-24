@@ -1,0 +1,6 @@
+{
+  "name": "Tibb — Offline Clinical Triage",
+  "description": "Offline-first Android AI healthcare triage, WHO IMCI/ETAT safety core, vitals estimator, lab OCR, and encrypted family health vault.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

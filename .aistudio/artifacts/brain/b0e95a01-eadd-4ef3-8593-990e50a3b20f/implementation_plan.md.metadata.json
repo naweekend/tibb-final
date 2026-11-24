@@ -1,0 +1,6 @@
+{
+  "summary":  "Revised implementation plan for Tibb (طب) as a downloadable 100% local Android APK (Capacitor 6 + Kotlin/JNI sequential Qwen 3.5 0.8B and Whisper.cpp) with an interactive preview harness, two-pass anti-hallucination clinical ground-truth verifier, anti-vibecoded editorial design, and full Production Checklist compliance (crypto account isolation, input/upload validation, backup/restore, automated tests, benchmarks, and operational runbook).",
+  "updatedAt":  "2026-11-19T17:57:05.373210174Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
